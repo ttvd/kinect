@@ -4,6 +4,8 @@ Copyright Mykola Konyk, <mykola@konyk.org>, 2011.
 This code is under Microsoft Reciprocal License (Ms-RL)
 Please see http://www.opensource.org/licenses/ms-rl.html
 
+<img alt="Kinect" src="http://i.imgur.com/SXGs6.png"/>
+
 
 
 Playing with Microsoft Kinect SDK.
