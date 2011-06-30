@@ -4,15 +4,15 @@ _bin/*
 debug
 release
 ipch
-_ReSarper*
+_ReSharper*
 *.opensdf
 *.sln
 *.vcxproj
-*.vcxproject.filters
-*.vcxproject.user
+*.filters
+*.user
 *.suo
 *.sdf
-*.pdf
+*.pdb
 
 # Ignore Qt generated.
 ui_*
