@@ -1,0 +1,14 @@
+_bin/*
+
+# Ignore VC related.
+debug
+release
+ipch
+_ReSarper*
+*.opensdf
+*.sln
+*.vcxproj
+
+# Ignore Qt generated.
+ui_*
+
