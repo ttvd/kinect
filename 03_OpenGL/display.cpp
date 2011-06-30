@@ -213,7 +213,7 @@ namespace Kinect
 		}	
 
 		glBindTexture(GL_TEXTURE_2D, m_texture);		
-		glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, m_width, m_height, 0, GL_RGBA, GL_UNSIGNED_BYTE, &data[0]);
+		glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, m_width, m_height, 0, GL_BGRA, GL_UNSIGNED_BYTE, &data[0]);
 	}
 
 
