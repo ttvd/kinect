@@ -8,6 +8,11 @@ _ReSarper*
 *.opensdf
 *.sln
 *.vcxproj
+*.vcxproject.filters
+*.vcxproject.user
+*.suo
+*.sdf
+*.pdf
 
 # Ignore Qt generated.
 ui_*
