@@ -16,5 +16,6 @@ In order to generate VS projects, please run 'qmake -recursive -tp vc' each demo
 Demo 01 - Controlling camera movement. <br>
 Demo 02 - Displaying Video (Color) image and Depth (Range) image captured by Kinect camera. <br>
 Demo 03 - Displaying Kinect Video using OpenGL. <br>
+Demo 04 - Applying various filters to Kinect video stream. <br>
 
 
