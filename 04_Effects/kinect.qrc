@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+ 	    <file>shader_common.vert</file>
+        <file>shader_color.frag</file>
+        <file>shader_blur.frag</file>
+        <file>shader_edge.frag</file>
+        <file>shader_grayscale.frag</file>
+        <file>shader_sepia.frag</file>
+ </qresource>
+ </RCC>
+ 
