@@ -18,5 +18,5 @@ Demo 02 - Displaying Video (Color) image and Depth (Range) image captured by Kin
 Demo 03 - Displaying Kinect Video using OpenGL. <br>
 Demo 04 - Applying various filters to Kinect video stream. <br>
 
-Please see wiki. <br>
+<a href = "https://github.com/ttvd/kinect/wiki">Please see wiki.</a> <br>
 
