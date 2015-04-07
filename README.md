@@ -1,4 +1,3 @@
-Created by radix on 06/30/11. <br>
 Copyright Mykola Konyk, <mykola@konyk.org>, 2011. <br>
 
 This code is under Microsoft Reciprocal License (Ms-RL) <br>
